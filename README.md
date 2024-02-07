@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am SHEIKHA KHALIFA ALI AL QUYUDHI<br>Full Stack Web Development /Software Engineering<br>Bachelor's degree Software Engineering<br> from University of Technology and Applied Science in Ibri (2021) <br>with Grade 3.24 GPA,<br>I have received academic excellence certificates and accolades<br> for participating in various programming competitions.
+I am SHEIKHA KHALIFA ALI AL QUYUDHI<br>Full Stack Web Development /Software Engineering<br>Bachelor's degree Software Engineering<br> from University of Technology and Applied Science in Ibri (2021) <br>with Grade 3.24 GPA,<br>I have received academic excellence certificates and accolades<br> for participating in various programming competitions.
 
 
 ## 🌐 Socials:
